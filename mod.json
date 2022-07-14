@@ -1,0 +1,9 @@
+{
+   "Name": "Dnydxn.Crosshairs",
+   "Description": "Mod for adding crosshair to the Kraber",
+
+   "LoadPriority": 0,
+   "ConVars": [],
+   "Scripts": [],
+   "Localisation": []
+}
